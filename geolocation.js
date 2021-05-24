@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded',domloaded,false);
 //from https://github.com/moueza/rectangles-animation-javascript/blob/main/index.js
 function domloaded(){
-    const vers = " v14";
+    const vers = " v";
     console.log("in consol+" + vers);
     // jQuery methods go here...
     document.getElementById("geoloc").innerHTML =navigator.geolocation.getCurrentPosition(success, error, options);;
