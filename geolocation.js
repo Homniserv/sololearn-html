@@ -47,8 +47,8 @@ function domloaded(){
     var ctx3 = c3.getContext("2d");
     const ctx33= c33.getContext("2d");
 
-    ctx3.moveTo(0, 0);
-    ctx3.lineTo(200, 100);
-    ctx3.stroke();
+    //ctx3.moveTo(0, 0);
+    //ctx3.lineTo(200, 100);
+    //ctx3.stroke();
 }
 
